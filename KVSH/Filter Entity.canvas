@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"Filter Entity","id":"aa0bcf62bf9bcb7b","x":-480,"y":-450,"width":250,"height":50,"color":"2"},
+		{"type":"text","text":"Design data models","id":"fcc318106c5002b2","x":-160,"y":-540,"width":280,"height":50,"color":"5"},
+		{"type":"text","text":"Integrate with dataset model","id":"4b2181c60ec6be77","x":-160,"y":-450,"width":280,"height":50,"color":"5"},
+		{"type":"text","text":"Implement data model","id":"baddce7b4e135485","x":-160,"y":-360,"width":280,"height":50,"color":"5"}
+	],
+	"edges":[
+		{"id":"86f73938ad0c4215","fromNode":"aa0bcf62bf9bcb7b","fromSide":"right","toNode":"fcc318106c5002b2","toSide":"left"},
+		{"id":"915d75c0327a8087","fromNode":"aa0bcf62bf9bcb7b","fromSide":"right","toNode":"4b2181c60ec6be77","toSide":"left"},
+		{"id":"9e7da42913800c8a","fromNode":"aa0bcf62bf9bcb7b","fromSide":"right","toNode":"baddce7b4e135485","toSide":"left"}
+	]
+}

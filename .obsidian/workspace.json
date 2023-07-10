@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "7c5fbd6433565303",
+    "type": "split",
+    "children": [
+      {
+        "id": "add71617e16a3bad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3be50c4cad66c73d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KVSH/Filtering API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8de81831e6dce193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KVSH/Filtering API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05505ebd0872f07a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ee30e7da8e2097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-07-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85b28105a8dea83d",
+    "type": "split",
+    "children": [
+      {
+        "id": "16866c2b7c77fdb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32fab96689f1b33b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97d3d7521d3f8c10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57ca310c0b182a3d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "694951a395eb67aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bb761e9a9e6af97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c51407d38f454c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-07-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "98b7ed33ea1c2989",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-07-10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48d22cbb31f2e275",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51ff26869d68a2ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-07-10.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fad56511f8babd11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b1e93320575c5cb",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "map-of-content:Update Map of Content": false
+    }
+  },
+  "active": "90ee30e7da8e2097",
+  "lastOpenFiles": [
+    "GitHub.md",
+    "2023-07-10.md",
+    "Untitled mindmap.md",
+    "2023-07-09.md",
+    "KVSH/Filtering API.md",
+    "KVSH/VISULIZATION_MODEL-V1.jpg",
+    "KVSH/Filter Entity.canvas",
+    "KVSH/Dashboard Datamodel V1.0.md",
+    "VISULIZATION_MODEL.jpg",
+    "KVSH",
+    "Untitled.canvas",
+    "Filtering API 1.md",
+    "GET All Filters.md",
+    "textgenerator/prompts/awesomechatgpt/journalistAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/aitryingtoescapetheboxAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/accountantAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/chiefexecutiveofficerAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/commitmessagegeneratorAwesome.md",
+    "textgenerator/prompts/awesomechatgpt/academicianAwesome.md",
+    "textgenerator/prompts/default/getTags.md",
+    "textgenerator/prompts/default/summarize.md",
+    "textgenerator/prompts/default/simplify.md",
+    "textgenerator/prompts/default/rewrite.md",
+    "textgenerator/prompts/default/getTitles.md",
+    "textgenerator/prompts/default/getParagraph.md",
+    "textgenerator/prompts/default/getOutline.md",
+    "textgenerator/prompts/default/getIdeas.md",
+    "textgenerator/prompts/default/getEmailPos.md",
+    "textgenerator/prompts/default/getEmailNeg.md",
+    "textgenerator/prompts/default",
+    "textgenerator/prompts/awesomechatgpt/timetravelguideAwesome.md",
+    "textgenerator/prompts/awesomechatgpt",
+    "textgenerator/prompts",
+    "textgenerator",
+    "Untitled 1.canvas"
+  ]
+}
