@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90ee30e7da8e2097",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-07-10.md",
+                "file": "2023-07-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-10.md",
+                "file": "2023-07-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-10.md",
+                "file": "2023-07-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-10.md"
+                "file": "2023-07-09.md"
               }
             }
           }
@@ -201,16 +189,16 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "90ee30e7da8e2097",
+  "active": "05505ebd0872f07a",
   "lastOpenFiles": [
-    "GitHub.md",
     "2023-07-10.md",
-    "Untitled mindmap.md",
-    "2023-07-09.md",
     "KVSH/Filtering API.md",
-    "KVSH/VISULIZATION_MODEL-V1.jpg",
-    "KVSH/Filter Entity.canvas",
+    "2023-07-09.md",
     "KVSH/Dashboard Datamodel V1.0.md",
+    "KVSH/VISULIZATION_MODEL-V1.jpg",
+    "GitHub.md",
+    "Untitled mindmap.md",
+    "KVSH/Filter Entity.canvas",
     "VISULIZATION_MODEL.jpg",
     "KVSH",
     "Untitled.canvas",
