@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3be50c4cad66c73d",
+            "id": "e3ff3ad7eca30799",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KVSH/Filtering API.md",
+                "file": "2023-07-11.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8de81831e6dce193",
+            "id": "c4fecc5945692b69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KVSH/Filtering API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05505ebd0872f07a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-07-09.md",
+                "file": "slider.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-09.md",
+                "file": "2023-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-09.md",
+                "file": "2023-07-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-09.md"
+                "file": "2023-07-11.md"
               }
             }
           }
@@ -186,19 +173,22 @@
       "remotely-save:Remotely Save": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "05505ebd0872f07a",
+  "active": "e3ff3ad7eca30799",
   "lastOpenFiles": [
-    "2023-07-10.md",
-    "KVSH/Filtering API.md",
     "2023-07-09.md",
-    "KVSH/Dashboard Datamodel V1.0.md",
+    "2023-07-11.md",
+    "2023-07-10.md",
+    "slider.md",
     "KVSH/VISULIZATION_MODEL-V1.jpg",
-    "GitHub.md",
-    "Untitled mindmap.md",
     "KVSH/Filter Entity.canvas",
+    "KVSH/Filtering API.md",
+    "KVSH/Dashboard Datamodel V1.0.md",
+    "Untitled mindmap.md",
+    "GitHub.md",
     "VISULIZATION_MODEL.jpg",
     "KVSH",
     "Untitled.canvas",
@@ -219,9 +209,7 @@
     "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default/getIdeas.md",
     "textgenerator/prompts/default/getEmailPos.md",
-    "textgenerator/prompts/default/getEmailNeg.md",
     "textgenerator/prompts/default",
-    "textgenerator/prompts/awesomechatgpt/timetravelguideAwesome.md",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts",
     "textgenerator",
