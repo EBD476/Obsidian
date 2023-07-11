@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-timelines:render-timeline": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
