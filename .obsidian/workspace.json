@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KVSH/Dashboard Datamodel V1.0.md",
+                "file": "2023-07-11.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "code snippets/KafkaProducerWithNode.md",
+                "file": "code snippets/SplunkKafkaConnection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "code snippets/KafkaProducerWithNode.md",
+                "file": "2023-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "code snippets/KafkaProducerWithNode.md",
+                "file": "2023-07-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "code snippets/KafkaProducerWithNode.md"
+                "file": "2023-07-11.md"
               }
             }
           }
@@ -179,18 +178,26 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "32fab96689f1b33b",
+  "active": "c4fecc5945692b69",
   "lastOpenFiles": [
     "2023-07-09.md",
-    "code snippets/KafkaProducerWithNode.md",
-    "code snippets/NodeApiServerWithPostgres.md",
-    "code snippets",
-    "code snippets/NotFoundErrorHandling.md",
     "2023-07-11.md",
-    "2023-07-10.md",
-    "KVSH/Dashboard Datamodel V1.0.md",
     "slider.md",
+    "splunk-hec1.jpg",
+    "splunk-hec2.jpg",
     "Untitled mindmap.md",
+    "code snippets/SplunkKafkaConnection.md",
+    "code snippets/KafkaDataGeneratorWithJava.md",
+    "code snippets/KafkaProducerWithNode.md",
+    "code snippets/ApacheNifi.md",
+    "code snippets/LogstashKafka.md",
+    "code snippets/NodeApiServerWithPostgres.md",
+    "code snippets/SplunkUniversalForwarder.md",
+    "Untitled.md",
+    "code snippets/NotFoundErrorHandling.md",
+    "KVSH/Dashboard Datamodel V1.0.md",
+    "code snippets",
+    "2023-07-10.md",
     "GitHub.md",
     "KVSH/Filter Entity.canvas",
     "KVSH/Filtering API.md",
@@ -206,13 +213,6 @@
     "textgenerator/prompts/awesomechatgpt/chiefexecutiveofficerAwesome.md",
     "textgenerator/prompts/awesomechatgpt/commitmessagegeneratorAwesome.md",
     "textgenerator/prompts/awesomechatgpt/academicianAwesome.md",
-    "textgenerator/prompts/default/getTags.md",
-    "textgenerator/prompts/default/summarize.md",
-    "textgenerator/prompts/default/simplify.md",
-    "textgenerator/prompts/default/rewrite.md",
-    "textgenerator/prompts/default/getTitles.md",
-    "textgenerator/prompts/default/getParagraph.md",
-    "textgenerator/prompts/default/getOutline.md",
     "textgenerator/prompts/default",
     "textgenerator/prompts/awesomechatgpt",
     "textgenerator/prompts",

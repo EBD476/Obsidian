@@ -70,3 +70,45 @@ app.post('/api/v1/ps', (req, res)=> {
 const port = process.env.PORT || 8085;
 app.listen(port,'0.0.0.0', () => console.log(`Listening on port ${port}..`));
 ```
+
+Postgres docker-compose 
+
+```yaml
+version: '3.1'
+
+services:
+
+  db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    ports:
+      - "5432:5432"
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8082:8082
+```
+
+create database and table in postgres docker
+
+```bash
+> docker exec -it apiservice-db-1 bash
+> psql -U postgres
+
+ CREATE TABLE accounts (
+        user_id serial PRIMARY KEY,
+        username VARCHAR ( 50 ) UNIQUE NOT NULL,
+        password VARCHAR ( 50 ) NOT NULL,
+        email VARCHAR ( 255 ) UNIQUE NOT NULL,
+        created_on TIMESTAMP NOT NULL,
+        last_login TIMESTAMP
+);
+
+> select * from accounts;
+```

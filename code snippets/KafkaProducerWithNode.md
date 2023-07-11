@@ -1,6 +1,6 @@
 Create kafka producer with nodejs
 this code send sample data to kafka test-topic 
-
+Method-1
 ```node
 const { faker } = require('@faker-js/faker');
 const { Kafka } = require('kafkajs');
@@ -64,4 +64,63 @@ async function runProducer() {
 }
 
 runProducer();
+```
+
+Method-2
+```node
+const Kafka = require('kafkajs');
+const logLevel = require('kafkajs');
+const uuidv4 = require('uuid');
+
+const kafka = new Kafka({
+  clientId: "random-producer",
+  brokers: ["localhost:29092"],
+  connectionTimeout: 3000,
+});
+var randomstring = require("randomstring");
+const randomMobile = require("random-mobile");
+const producer = kafka.producer({});
+const topic = "elastic-test";
+
+const produce = async () => {
+  await producer.connect();
+  let i = 0;
+
+  setInterval(async () => {
+    var event = {};
+    try {
+      event = {
+        globalId: uuidv4(),
+        event: "USER-CREATED",
+        data: {
+          id: uuidv4(),
+          firstName: randomstring.generate(8),
+          lastName: randomstring.generate(6),
+          country: "India",
+          email: randomstring.generate(10) + "@gmail.com",
+          phoneNumber: randomMobile(),
+          city: "Hyderabad",
+          createdAt: new Date(),
+        } ,
+      } ;
+      await producer.send({
+        topic,
+        acks: 1,
+        messages: [
+          {
+            value: JSON.stringify(event),
+          },
+        ],
+      });
+
+      // if the message is written successfully, log it and increment `i`
+      console.log("writes: ", event);
+      i++;
+    } catch (err) {
+      console.error("could not write message " + err);
+    }
+  }, 5000);
+};
+
+module.exports = produce;
 ```
