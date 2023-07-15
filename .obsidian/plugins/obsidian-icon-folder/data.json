@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "SiR",
+      "LiFolder",
+      "RiIeFill",
+      "LiCalendar",
+      "SiDatabricks",
+      "LiPackage",
+      "FasToolbox",
+      "SiApachekafka",
+      "SiLogstash",
+      "SiSplunk"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "code_snippets": "LiPackage",
+  "code_snippets/KafkaProducerWithNode.md": "SiApachekafka",
+  "code_snippets/SplunkUniversalForwarder.md": "SiSplunk",
+  "Tools.md": "FasToolbox",
+  "Resource.md": "RiIeFill",
+  "samples": "LiFolder",
+  "code_snippets/Splunk Connection with Kafka.md": "SiSplunk",
+  "code_snippets/SplunkApiList.md": "SiSplunk",
+  "code_snippets/NodeApiServerWithPostgres.md": "FabNodeJs",
+  "code_snippets/LogstashKafkaInput.md": "SiLogstash",
+  "code_snippets/KafkaDataGeneratorWithJava.md": "SiApachekafka",
+  "code_snippets/ApacheNifi.md": "FabNodeJs",
+  "projects": "LiPackage",
+  "dailyworks": "LiCalendar",
+  "R&D": "SiR",
+  "code_snippets/Java/NotFoundErrorHandling.md": "FabJava",
+  "assets": "SiDatabricks"
+}

@@ -1,0 +1,15 @@
+- final2x (increase image size) https://github.com/Tohrusky/Final2x/releases
+- APK free https://espacioapk.com/
+- Online OCR https://www.onlineocr.net/
+
+### AI Resources
+- Perplexity.ai: [https://www.perplexity.ai/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjlBUndLYkVJVk9XaVdVTmt2dng0WFFOUkVNQXxBQ3Jtc0tuWWJJZUpCRWRKanFGOVk4WERNZHI1d2c2TWRWQjVqVm1NSU80YXgwM21jVnh0Rk9zNDhQeTA4S0M1QlRTWVp2NGVlcE41SW15Q25ETDNYZ2NGOERjMjBnTDFqbHZjbnVKaUxvcDhzenB6WTdIY0Y1NA&q=https%3A%2F%2Fwww.perplexity.ai%2F&v=vsT1PkQL8EE)
+- Colorize pictures: [https://palette.fm/]
+- Skybox [https://skybox.blockadelabs.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGJFNUVJdDVRRUNjVUlmTzlRdFdBTXlJdUptQXxBQ3Jtc0ttTmttc05mN2dTSXZGZ2hPQ1ZLTWJTZk13SXZmaU9hRzZPWklLY3diUU50M1NtRXh1MmlITDNLOS0zY0ZlLXdTZnVnaUtEVUpjUXplZFlrOWNTU0RuRDZPb2NkWGxQQmJrMGZkTlpHRl9KSEZNS1hiaw&q=https%3A%2F%2Fskybox.blockadelabs.com%2F&v=vsT1PkQL8EE)
+- QR code AI art generator [https://huggingface.co/spaces/hugging...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbGQ4bUpUQ2pmU21sd295VEFOU1Y0ay1iNWJPZ3xBQ3Jtc0trb3lKcGl0UTNsNHgyQW15UHI0eW9BMThhVmFFUlotaWw1c3V6elNSTDNlOWl0NTlQSEFDeUJBaTlQby1qOUR2S0ppcmhGQXdlem1nRWU1WERfWm5fZGlqNUtHaW5WdzZhVTV3YjZQYkZPeU4zMjRvRQ&q=https%3A%2F%2Fhuggingface.co%2Fspaces%2Fhuggingface-projects%2FQR-code-AI-art-generator&v=vsT1PkQL8EE)-
+- GPT-engineer [https://github.com/AntonOsika/gpt-eng...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblNuaENXUE9LSHk4Qmw5eElhd25CYUItRGJNUXxBQ3Jtc0ttOGZmSEVMSkVPOE9xQzd5X01sclk5QmxSdFo3RW9WMWYxdWdUU0ZYLU9XV2hBeVJZRFl3a21GMnE2X09oUWM2VFBLSGQzaTFVcVU5TXowMEN2V19mX2JXcThzeFVuMlJzbXFyUG1GQ0FLWHc1U1pwYw&q=https%3A%2F%2Fgithub.com%2FAntonOsika%2Fgpt-engineer&v=vsT1PkQL8EE)
+- Infinigen (3D) [https://infinigen.org/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFpQM1kwV3E4OEVrSTA1VC1JUG00eVUtb1Jjd3xBQ3Jtc0trS3FIUGl2czVDVWlJU0I5ZzlhSWJZNnZEb0d5S0EyOXZ1U2ZHSU5reUlGQlkzMmhPUmtuOGQ1T3ZrWHBVNnljWFAwQWRpWjllVXBtQ2xmckhDMFpaQnFZVUJHVUM2X1VGYl9mSEw3ajN4cVFiY3psOA&q=https%3A%2F%2Finfinigen.org%2F&v=vsT1PkQL8EE) [https://github.com/princeton-vl/infin...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjZ1d2tVWVBRYWEwZ3E1UkgzdV9MbWhuQ3g5Z3xBQ3Jtc0ttUzNaMi1Id2VCT3FWR3ZGSGFSNUl6MkUxMFd1cUlaLTE4WFRqWGlJUTNGS0RFR2Jhd25XYkcxWW1abF9jZ3pjaDRBMkVHdF9iZnh6alVIRGh4MHoxeFpxTHJfSEpRejhYQTVzTHVlR3Q1SUJReXB0QQ&q=https%3A%2F%2Fgithub.com%2Fprinceton-vl%2Finfinigen&v=vsT1PkQL8EE)
+-  AutoGPT [https://github.com/Significant-Gravit...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0lTWVY4bXZPekotdklZRlZDT3JBcEU1OW9kQXxBQ3Jtc0tsRi1NdWItQS1hWkdTaHU1RHlxN1VNQTYtWmpCTGlqakVQNlFCdDBodkJZbmxKQjRXRWQtVkd1WmkwdGtmcURZUHkyTHdybzBmS0xsWHFKaklUdGhibnVUa0VrSnJkRG1NT0ltUXE2ZGJtMFVMRkY5MA&q=https%3A%2F%2Fgithub.com%2FSignificant-Gravitas%2FAuto-GPT&v=NTPkooNhF1g)
+
+ - [filename] (file:///d:/project)
+ - 

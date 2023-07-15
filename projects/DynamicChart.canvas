@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"0a5449a103170784","x":-440,"y":-180,"width":250,"height":60,"type":"text","text":"Dynamic chart"},
+		{"id":"6e729a75065ec1e7","x":-100,"y":-300,"width":250,"height":60,"color":"6","type":"text","text":"Chart Template"},
+		{"id":"1ff135de2da388ff","x":-100,"y":-180,"width":250,"height":60,"color":"6","type":"text","text":"Chart data"},
+		{"id":"fdff6fa9d739bb34","x":-100,"y":-60,"width":250,"height":56,"color":"6","type":"text","text":"Chart Options"}
+	],
+	"edges":[
+		{"id":"0ec375cde9f57a68","fromNode":"0a5449a103170784","fromSide":"right","toNode":"6e729a75065ec1e7","toSide":"left","toEnd":"none"},
+		{"id":"bc7f82336372c022","fromNode":"0a5449a103170784","fromSide":"right","toNode":"1ff135de2da388ff","toSide":"left","toEnd":"none"},
+		{"id":"47ee00ace5c8192d","fromNode":"0a5449a103170784","fromSide":"right","toNode":"fdff6fa9d739bb34","toSide":"left","toEnd":"none"}
+	]
+}

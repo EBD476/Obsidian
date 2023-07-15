@@ -1,0 +1,3 @@
+- Offset explorer for kafka topics
+- Flow launcher (windows launcher )
+- Obsidian note organizer
