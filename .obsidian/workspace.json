@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R&D/ImageColorizition.md",
+                "file": "projects/Kibana/Source-Changes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R&D/ImageColorizition.md",
+                "file": "projects/Kibana/Source-Changes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R&D/ImageColorizition.md",
+                "file": "projects/Kibana/Source-Changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R&D/ImageColorizition.md"
+                "file": "projects/Kibana/Source-Changes.md"
               }
             }
           }
@@ -141,11 +141,11 @@
         "currentTab": 3
       },
       {
-        "id": "c1e292c5af2b7195",
+        "id": "35ea8db0c353f5f2",
         "type": "tabs",
         "children": [
           {
-            "id": "a6da89f0e0570a65",
+            "id": "fced2ee27a947f80",
             "type": "leaf",
             "state": {
               "type": "map-of-content",
@@ -170,15 +170,20 @@
       "remotely-save:Remotely Save": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "map-of-content:Update Map of Content": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "brain:brAIn": false,
-      "map-of-content:Update Map of Content": false
+      "brain:brAIn": false
     }
   },
-  "active": "446385217c68b7d0",
+  "active": "32fab96689f1b33b",
   "lastOpenFiles": [
+    "code_snippets/MernStack.md",
+    "projects/Splunk/SplunkLicense.md",
+    "projects/Splunk",
     "Resource.md",
+    "projects/Kibana/Source-Changes.md",
+    "projects/Kibana",
     "R&D/ImageColorizition.md",
     "samples/slider.md",
     "samples/new-card.md",
@@ -207,19 +212,14 @@
     "code_snippets/LogstashKafkaInput.md",
     "code_snippets/NodeApiServerWithPostgres.md",
     "code_snippets/Java/NotFoundErrorHandling.md",
-    "code_snippets/SplunkUniversalForwarder.md",
-    "code_snippets/SplunkApiList.md",
-    "code_snippets/Splunk Connection with Kafka.md",
     "samples",
     "dailyworks",
     "samples/Excalidraw",
     "assets",
     "assets/splunk-hec2.jpg",
     "code_snippets",
-    "code snippets",
     "assets/VISULIZATION_MODEL-V1.jpg",
     "VISULIZATION_MODEL.jpg",
-    "projects",
     "Untitled 1.canvas"
   ]
 }
