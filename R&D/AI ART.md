@@ -1,0 +1,3 @@
+- GET IMG https://getimg.ai/
+- translate json file https://translate.i18next.com/
+- 

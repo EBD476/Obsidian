@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "446385217c68b7d0",
+            "id": "a6d65c203b1ebe18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R&D/ImageColorizition.md",
+                "file": "dailyworks/2023-07-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R&D/ImageColorizition.md",
+                "file": "dailyworks/2023-07-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R&D/ImageColorizition.md",
+                "file": "dailyworks/2023-07-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R&D/ImageColorizition.md"
+                "file": "dailyworks/2023-07-15.md"
               }
             }
           }
@@ -176,50 +176,49 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "446385217c68b7d0",
+  "active": "a6d65c203b1ebe18",
   "lastOpenFiles": [
-    "Resource.md",
-    "R&D/ImageColorizition.md",
-    "samples/slider.md",
-    "samples/new-card.md",
-    "samples/TestKanban.md",
-    "PythonVirtualEnvironment.md",
-    "dailyworks/2023-07-15.md",
-    "samples/Excalidraw/Drawing 2023-07-12 13.32.53.excalidraw.md",
-    "dailyworks/2023-07-09.md",
-    "dailyworks/2023-07-11.md",
-    "dailyworks/2023-07-12.md",
-    "code_snippets/Java",
-    "R&D",
+    "projects/AI/ChartGTP-Translation.md",
+    "dailyworks/2023-07-17.md",
+    "projects/Kibana/fa-IR.json",
+    "projects/Kibana/Fa-IR.json",
+    "projects/Kibana/result.json",
+    "projects/Kibana",
+    "ChatGPT_MD/chats/20230717095739.md",
     "Tools.md",
-    "dailyworks/2023-07-10.md",
-    "projects/DynamicChart.canvas",
+    "ChatGPT_MD/chats/20230717101645.md",
+    "Resource.md",
+    "code_snippets/Python/PythonVirtualEnvironment.md",
+    "samples/Excalidraw/Drawing 2023-07-12 13.32.53.excalidraw.md",
+    "R&D/ImageColorizition.md",
+    "R&D/AI ART.md",
+    "code_snippets/Data/ApacheNifi.md",
+    "code_snippets/Data",
+    "code_snippets/Elastic",
+    "code_snippets/Splunk",
+    "code_snippets/Node",
+    "projects/AI/DALEE.md",
     "projects/Dashboard Datamodel V1.0.md",
+    "ChatGPT_MD/chats",
+    "ChatGPT_MD",
+    "samples/new-card.md",
+    "dailyworks/2023-07-15.md",
+    "dailyworks/2023-07-12.md",
+    "dailyworks/2023-07-09.md",
+    "dailyworks/2023-07-10.md",
+    "dailyworks/2023-07-11.md",
+    "code_snippets/Node/KafkaProducerWithNode.md",
+    "code_snippets/Python/Python-Pyqt.md",
+    "samples/slider.md",
+    "samples/TestKanban.md",
+    "projects/DynamicChart.canvas",
     "Untitled mindmap.md",
     "Excalidraw/Drawing 2023-07-12 14.27.36.excalidraw.md",
-    "Excalidraw",
     "projects/Filter Entity.canvas",
     "assets/splunk-hec1.jpg",
-    "Excalidraw/Drawing 2023-07-12 14.23.08.excalidraw.md",
-    "code_snippets/KafkaProducerWithNode.md",
-    "code_snippets/KafkaDataGeneratorWithJava.md",
-    "code_snippets/ApacheNifi.md",
-    "code_snippets/LogstashKafkaInput.md",
-    "code_snippets/NodeApiServerWithPostgres.md",
-    "code_snippets/Java/NotFoundErrorHandling.md",
-    "code_snippets/SplunkUniversalForwarder.md",
-    "code_snippets/SplunkApiList.md",
-    "code_snippets/Splunk Connection with Kafka.md",
-    "samples",
-    "dailyworks",
-    "samples/Excalidraw",
-    "assets",
     "assets/splunk-hec2.jpg",
-    "code_snippets",
-    "code snippets",
     "assets/VISULIZATION_MODEL-V1.jpg",
     "VISULIZATION_MODEL.jpg",
-    "projects",
     "Untitled 1.canvas"
   ]
 }
