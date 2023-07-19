@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailyworks/2023-07-15.md",
+                "file": "Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dailyworks/2023-07-15.md",
+                "file": "Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dailyworks/2023-07-15.md",
+                "file": "Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dailyworks/2023-07-15.md"
+                "file": "Tools.md"
               }
             }
           }
@@ -178,16 +178,22 @@
   },
   "active": "a6d65c203b1ebe18",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Tools.md",
+    "Resource.md",
+    "dailyworks/2023-07-15.md",
+    "code_snippets/Node/MernStack.md",
     "projects/AI/ChartGTP-Translation.md",
+    "projects/Splunk/SplunkLicense.md",
+    "projects/Splunk",
+    "projects/Kibana/Source-Changes.md",
     "dailyworks/2023-07-17.md",
     "projects/Kibana/fa-IR.json",
     "projects/Kibana/Fa-IR.json",
     "projects/Kibana/result.json",
     "projects/Kibana",
     "ChatGPT_MD/chats/20230717095739.md",
-    "Tools.md",
     "ChatGPT_MD/chats/20230717101645.md",
-    "Resource.md",
     "code_snippets/Python/PythonVirtualEnvironment.md",
     "samples/Excalidraw/Drawing 2023-07-12 13.32.53.excalidraw.md",
     "R&D/ImageColorizition.md",
@@ -200,9 +206,7 @@
     "projects/AI/DALEE.md",
     "projects/Dashboard Datamodel V1.0.md",
     "ChatGPT_MD/chats",
-    "ChatGPT_MD",
     "samples/new-card.md",
-    "dailyworks/2023-07-15.md",
     "dailyworks/2023-07-12.md",
     "dailyworks/2023-07-09.md",
     "dailyworks/2023-07-10.md",
@@ -210,10 +214,7 @@
     "code_snippets/Node/KafkaProducerWithNode.md",
     "code_snippets/Python/Python-Pyqt.md",
     "samples/slider.md",
-    "samples/TestKanban.md",
     "projects/DynamicChart.canvas",
-    "Untitled mindmap.md",
-    "Excalidraw/Drawing 2023-07-12 14.27.36.excalidraw.md",
     "projects/Filter Entity.canvas",
     "assets/splunk-hec1.jpg",
     "assets/splunk-hec2.jpg",
