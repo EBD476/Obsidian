@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools.md",
+                "file": "R&D/AI ART.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acb4f865776ec6a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R&D/Technology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools.md",
+                "file": "R&D/Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools.md",
+                "file": "R&D/Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools.md"
+                "file": "R&D/Technology.md"
               }
             }
           }
@@ -176,14 +189,25 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "a6d65c203b1ebe18",
+  "active": "acb4f865776ec6a0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Tools.md",
-    "Resource.md",
-    "dailyworks/2023-07-15.md",
+    "R&D/AI ART.md",
+    "R&D/Technology.md",
+    "code_snippets/Splunk/Splunk Connection with Kafka.md",
+    "code_snippets/Splunk/SplunkUniversalForwarder.md",
+    "code_snippets/Node/KafkaProducerWithNode.md",
+    "code_snippets/Node/NodeApiServerWithPostgres.md",
     "code_snippets/Node/MernStack.md",
+    "code_snippets/Python/Python-Pyqt.md",
+    "projects/AI/DALEE.md",
     "projects/AI/ChartGTP-Translation.md",
+    "code_snippets/Python/PythonVirtualEnvironment.md",
+    "CRK/Activation methods.md",
+    "Resource.md",
+    "CRK",
+    "Tools.md",
+    "conflict-files-obsidian-git.md",
+    "dailyworks/2023-07-15.md",
     "projects/Splunk/SplunkLicense.md",
     "projects/Splunk",
     "projects/Kibana/Source-Changes.md",
@@ -194,26 +218,15 @@
     "projects/Kibana",
     "ChatGPT_MD/chats/20230717095739.md",
     "ChatGPT_MD/chats/20230717101645.md",
-    "code_snippets/Python/PythonVirtualEnvironment.md",
     "samples/Excalidraw/Drawing 2023-07-12 13.32.53.excalidraw.md",
     "R&D/ImageColorizition.md",
-    "R&D/AI ART.md",
     "code_snippets/Data/ApacheNifi.md",
     "code_snippets/Data",
     "code_snippets/Elastic",
     "code_snippets/Splunk",
     "code_snippets/Node",
-    "projects/AI/DALEE.md",
     "projects/Dashboard Datamodel V1.0.md",
-    "ChatGPT_MD/chats",
     "samples/new-card.md",
-    "dailyworks/2023-07-12.md",
-    "dailyworks/2023-07-09.md",
-    "dailyworks/2023-07-10.md",
-    "dailyworks/2023-07-11.md",
-    "code_snippets/Node/KafkaProducerWithNode.md",
-    "code_snippets/Python/Python-Pyqt.md",
-    "samples/slider.md",
     "projects/DynamicChart.canvas",
     "projects/Filter Entity.canvas",
     "assets/splunk-hec1.jpg",

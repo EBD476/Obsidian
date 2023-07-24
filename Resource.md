@@ -12,4 +12,3 @@
 -  AutoGPT [https://github.com/Significant-Gravit...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0lTWVY4bXZPekotdklZRlZDT3JBcEU1OW9kQXxBQ3Jtc0tsRi1NdWItQS1hWkdTaHU1RHlxN1VNQTYtWmpCTGlqakVQNlFCdDBodkJZbmxKQjRXRWQtVkd1WmkwdGtmcURZUHkyTHdybzBmS0xsWHFKaklUdGhibnVUa0VrSnJkRG1NT0ltUXE2ZGJtMFVMRkY5MA&q=https%3A%2F%2Fgithub.com%2FSignificant-Gravitas%2FAuto-GPT&v=NTPkooNhF1g)
 
  - [filename] (file:///d:/project)
- - 
