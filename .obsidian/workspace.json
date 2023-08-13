@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/React.md",
+                "file": "Logo/LogoDesign.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/React.md",
+                "file": "Logo/LogoDesign.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/React.md",
+                "file": "Logo/LogoDesign.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/React.md"
+                "file": "Logo/LogoDesign.md"
               }
             }
           }
@@ -211,8 +211,18 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "31298318c6521517",
+  "active": "32fab96689f1b33b",
   "lastOpenFiles": [
+    "Logo/DreamShaper_v7_A_minimal_simple_logo_with_a_data_science_theme_4.jpg",
+    "Logo/Default_A_futuristic_interactive_logo_for_visualization_of_da_0.jpg",
+    "Logo/LogoDesign.md",
+    "Logo/DreamShaper_v7_A_minimal_simple_logo_with_a_data_science_theme_3.jpg",
+    "Logo/Absolute_Reality_v16_A_minimal_logo_with_a_data_analysis_theme_3.jpg",
+    "Logo/DreamShaper_v7_A_futuristic_interactive_simple_logo_for_visual_2.jpg",
+    "Logo/DreamShaper_v7_A_futuristic_interactive_simple_logo_for_visual_0.jpg",
+    "Logo/Default_A_futuristic_interactive_logo_for_visualization_of_da_3.jpg",
+    "projects/React.md",
+    "Logo",
     "projects/Kibana/output-38-verified.json",
     "projects/Kibana/output-37-verified.json",
     "projects/Kibana/output-36-verified.json",
@@ -222,8 +232,6 @@
     "projects/Kibana/output-26-verified.json",
     "projects/Kibana/output-25-verified.json",
     "projects/Kibana/output-24-verified.json",
-    "projects/Kibana/output-23-verified.json",
-    "projects/Kibana/output-22-verified.json",
     "R&D/GPTPrompts.md",
     "R&D/AI ART.md",
     "samples/TestKanban.md",
@@ -232,7 +240,6 @@
     "projects/AI/ChartGTP-Translation.md",
     "projects/AI/PythonPrompts.md",
     "projects/Filtering API.md",
-    "projects/React.md",
     "Untitled.md",
     "R&D/SimpleOCR.md",
     "Resource.md",
@@ -252,11 +259,7 @@
     "code_snippets/Node/MernStack.md",
     "code_snippets/Splunk/Splunk Connection with Kafka.md",
     "code_snippets/Splunk/SplunkUniversalForwarder.md",
-    "code_snippets/Python/Python-Pyqt.md",
     "assets/splunk-hec1.jpg",
-    "assets/splunk-hec2.jpg",
-    "assets/VISULIZATION_MODEL-V1.jpg",
-    "VISULIZATION_MODEL.jpg",
     "Untitled 1.canvas"
   ]
 }
