@@ -4,28 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "b55e89d32b1636f3",
+        "id": "db30a12a88a3e8e7",
         "type": "tabs",
         "children": [
           {
-            "id": "a6d65c203b1ebe18",
+            "id": "c15136cba6e48f31",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R&D/AI ART.md",
+                "file": "R&D/GPTPrompts.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "acb4f865776ec6a0",
+            "id": "31298318c6521517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R&D/Technology.md",
+                "file": "projects/React.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b58357f4c0982e62",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
+            "id": "dc8dfb8ff639b733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R&D/SimpleOCR.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R&D/Technology.md",
+                "file": "projects/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R&D/Technology.md",
+                "file": "projects/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R&D/Technology.md"
+                "file": "projects/React.md"
               }
             }
           }
@@ -189,46 +211,47 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "acb4f865776ec6a0",
+  "active": "31298318c6521517",
   "lastOpenFiles": [
+    "R&D/GPTPrompts.md",
     "R&D/AI ART.md",
+    "samples/TestKanban.md",
+    "projects/Filter Entity.canvas",
+    "samples/Excalidraw/Drawing 2023-07-12 13.32.53.excalidraw.md",
+    "projects/AI/ChartGTP-Translation.md",
+    "projects/AI/PythonPrompts.md",
+    "projects/Filtering API.md",
+    "projects/React.md",
+    "Untitled.md",
+    "R&D/SimpleOCR.md",
+    "Resource.md",
+    "Tools.md",
     "R&D/Technology.md",
+    "R&D/LicenseGenerator.md",
+    "R&D/JavaNativeCode.md",
+    "R&D/ImageColorizition.md",
+    "projects/Dashboard Datamodel V1.0.md",
+    "projects/AI/DALEE.md",
+    "projects/DynamicChart.canvas",
+    "code_snippets/Node/NodeApiServerWithPostgres.md",
+    "code_snippets/Node/PM2.md",
+    "assets/Pasted image 20230725110045.png",
+    "assets/Pasted image 20230725090821.png",
+    "code_snippets/Node/KafkaProducerWithNode.md",
+    "code_snippets/Node/MernStack.md",
     "code_snippets/Splunk/Splunk Connection with Kafka.md",
     "code_snippets/Splunk/SplunkUniversalForwarder.md",
-    "code_snippets/Node/KafkaProducerWithNode.md",
-    "code_snippets/Node/NodeApiServerWithPostgres.md",
-    "code_snippets/Node/MernStack.md",
     "code_snippets/Python/Python-Pyqt.md",
-    "projects/AI/DALEE.md",
-    "projects/AI/ChartGTP-Translation.md",
-    "code_snippets/Python/PythonVirtualEnvironment.md",
-    "CRK/Activation methods.md",
-    "Resource.md",
     "CRK",
-    "Tools.md",
-    "conflict-files-obsidian-git.md",
-    "dailyworks/2023-07-15.md",
-    "projects/Splunk/SplunkLicense.md",
     "projects/Splunk",
-    "projects/Kibana/Source-Changes.md",
-    "dailyworks/2023-07-17.md",
     "projects/Kibana/fa-IR.json",
     "projects/Kibana/Fa-IR.json",
     "projects/Kibana/result.json",
     "projects/Kibana",
-    "ChatGPT_MD/chats/20230717095739.md",
-    "ChatGPT_MD/chats/20230717101645.md",
-    "samples/Excalidraw/Drawing 2023-07-12 13.32.53.excalidraw.md",
-    "R&D/ImageColorizition.md",
-    "code_snippets/Data/ApacheNifi.md",
     "code_snippets/Data",
     "code_snippets/Elastic",
     "code_snippets/Splunk",
     "code_snippets/Node",
-    "projects/Dashboard Datamodel V1.0.md",
-    "samples/new-card.md",
-    "projects/DynamicChart.canvas",
-    "projects/Filter Entity.canvas",
     "assets/splunk-hec1.jpg",
     "assets/splunk-hec2.jpg",
     "assets/VISULIZATION_MODEL-V1.jpg",

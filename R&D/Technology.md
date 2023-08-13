@@ -65,3 +65,10 @@ const { Kafka } = require('kafkajs')
 20// ...
 21consumer.disconnect()
 ```
+
+
+### supabase
+
+Build production-grade applications with a Postgres database, Authentication, instant APIs, 
+Realtime, Functions, Storage and Vector embeddings
+https://supabase.com/
