@@ -20,6 +20,40 @@
             }
           },
           {
+            "id": "ebd638b7e5f0bb37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "R&D/Kafka/Kafka Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f6aa93f8e15ef44",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
+          },
+          {
+            "id": "78b49e3e42311d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "dc8dfb8ff639b733",
             "type": "leaf",
             "state": {
@@ -31,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R&D/GPTPrompts.md",
+                "file": "Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R&D/GPTPrompts.md",
+                "file": "Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +180,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R&D/GPTPrompts.md"
+                "file": "Linux.md"
+              }
+            }
+          },
+          {
+            "id": "48b25ea7ca1532f8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -188,8 +233,19 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "c15136cba6e48f31",
+  "active": "78b49e3e42311d94",
   "lastOpenFiles": [
+    "Linux.md",
+    "R&D/Flink/FlinkSamples.md",
+    "R&D/Kafka/Kafka Notes.md",
+    "R&D/Kafka",
+    "R&D/Flink/Flink Job.md",
+    "R&D/Flink/Data Sources.md",
+    "R&D/AI ART.md",
+    "code_snippets/Data/ApacheNifi.md",
+    "R&D/Flink",
+    "R&D/SimpleOCR.md",
+    "R&D/GPTPrompts.md",
     "projects/Kibana/output-33-verified.json",
     "projects/Kibana/output-32-verified.json",
     "projects/Kibana/output-9-verified.json",
@@ -198,8 +254,6 @@
     "projects/Kibana/output-7-verified.json",
     "projects/Kibana/output-6-verified.json",
     "projects/Kibana/output-8-veified.json",
-    "R&D/GPTPrompts.md",
-    "R&D/SimpleOCR.md",
     "Logo/LogoDesign.md",
     "Logo/DreamShaper_v7_A_minimal_simple_logo_with_a_data_science_theme_4.jpg",
     "Logo/Default_A_futuristic_interactive_logo_for_visualization_of_da_0.jpg",
@@ -209,10 +263,6 @@
     "Logo/DreamShaper_v7_A_futuristic_interactive_simple_logo_for_visual_0.jpg",
     "Logo/Default_A_futuristic_interactive_logo_for_visualization_of_da_3.jpg",
     "projects/React.md",
-    "Logo",
-    "projects/Kibana/output-38-verified.json",
-    "projects/Kibana/output-37-verified.json",
-    "R&D/AI ART.md",
     "samples/TestKanban.md",
     "projects/Filter Entity.canvas",
     "samples/Excalidraw/Drawing 2023-07-12 13.32.53.excalidraw.md",
@@ -230,13 +280,8 @@
     "projects/AI/DALEE.md",
     "projects/DynamicChart.canvas",
     "code_snippets/Node/NodeApiServerWithPostgres.md",
-    "code_snippets/Node/PM2.md",
     "assets/Pasted image 20230725110045.png",
     "assets/Pasted image 20230725090821.png",
-    "code_snippets/Node/KafkaProducerWithNode.md",
-    "code_snippets/Node/MernStack.md",
-    "code_snippets/Splunk/Splunk Connection with Kafka.md",
-    "code_snippets/Splunk/SplunkUniversalForwarder.md",
     "assets/splunk-hec1.jpg",
     "Untitled 1.canvas"
   ]
