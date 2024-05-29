@@ -1,0 +1,64 @@
+## Instructions
+
+
+tmux ls
+tmux kill-session -t 3
+tmux new -s mysession
+tmux rename-session -t old_name new_name
+
+pip download package.whl
+pip install package.whl
+
+pip install virtualenv
+
+virtualenv myenv
+python3 -m venv test_env
+source myenv/bin/activate
+deactivate
+
+java-1.8.0-openjdk.x86_64
+
+pip show tensorflow-io
+pip install jupyterlab_darkside_ui
+
+## airflow 
+
+pip install  apache-airflow
+pip install 'apache-airflow[mysql]' 'apache-airflow[celery]' 'apache-airflow[rabbitmq]' 'apache-airflow[crypto]' 'apache-airflow[password]'
+
+airflow db init
+airflow webserver -p 8080
+airflow scheduler
+airflow users  create --role Admin --username admin --email admin --firstname admin --lastname admin --password admin
+
+worker 
+pip install celery==4.3.0
+airflow webserver -p 8000
+airflow scheduler
+airflow worker
+
+airflow dags list
+airflow info
+
+
+## spark
+
+ yum install java-17-openjdk-headless
+ copy spark-3.5.1-bin-hadoop3.tar to /opt/spark
+ config /opt/spark/spark-env.sh
+ config /opt/spark/slaves
+ /opt/spark/sbin/start-all.sh
+ /opt/spark/sbin/stop-all.sh
+ 
+ 
+## hdfs 
+
+hdfs dfsadmin -report
+ /opt/hadoop/sbin/start-all.sh
+ /opt/hadoop/sbin/stop-all.sh
+
+ /opt/hadoop/sbin/start-dfs.sh
+ /opt/hadoop/sbin/stop-dfs.sh
+ 
+ hdfs dfs -mkdir /user/hadoop
+ hdfs dfs -put /home/hadoop/data.csv  /user/hadoop/
