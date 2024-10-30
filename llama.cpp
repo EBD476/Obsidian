@@ -51,4 +51,14 @@ pkg install irssi
 /nick [nickname]
 /join
 
+----------------------------
+ubuntu on termux
+
+curl https://raw.githubusercontent.com/TecnicalBot/modded-distro/main/install.sh >> install.sh
+bash install.sh
+
+$ bash install.sh
+
+
+
 
