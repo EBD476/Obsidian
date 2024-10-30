@@ -39,3 +39,7 @@ $ make command
 
 # On Raspberry Pi, in guided mode you can use "-ac 128" for extra performance
 ./command -m ./models/ggml-tiny.en.bin -cmd ./examples/command/commands.txt -ac 128 -t 3 -c 0
+
+
+# android whisper
+https://github.com/ggerganov/whisper.cpp/tree/master/examples/whisper.android
