@@ -18,3 +18,24 @@ Ran an LLM on Android Phone with LLaMA.cpp
   $ ./server
   
 - Web server on http://127.0.0.1:8080
+
+------------------------------------------------
+whisper.cpp
+
+$ git clone https://github.com/ggerganov/whisper.cpp.git
+$ ./models/download-ggml-model.sh base.en
+$ make
+$ ./main -f samples/jfk.wav
+$ make command 
+
+# Run with default arguments and small model
+& ./command -m ./models/ggml-base.en.bin -t 8 
+
+# On Raspberry Pi, use tiny or base models + "-ac 768" for better performance
+./command -m ./models/ggml-tiny.en.bin -ac 768 -t 3 -c 0
+
+# Run in guided mode, the list of allowed commands is in commands.txt
+./command -m ./models/ggml-base.en.bin -cmd ./examples/command/commands.txt
+
+# On Raspberry Pi, in guided mode you can use "-ac 128" for extra performance
+./command -m ./models/ggml-tiny.en.bin -cmd ./examples/command/commands.txt -ac 128 -t 3 -c 0
