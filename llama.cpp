@@ -43,3 +43,12 @@ $ make command
 
 # android whisper
 https://github.com/ggerganov/whisper.cpp/tree/master/examples/whisper.android
+
+----------------------------------------
+chat sec
+pkg install irssi
+/connect freenode
+/nick [nickname]
+/join
+
+
