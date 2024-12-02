@@ -1,0 +1,78 @@
+package com.example.taskmanager.controller;
+
+import org.flowable.engine.TaskService;
+import org.flowable.task.api.Task;
+import org.flowable.variable.api.history.HistoricVariableInstance;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.List;
+
+@Controller
+public class TaskController {
+
+    @Autowired
+    private TaskService taskService;
+
+    // Show all tasks
+    @GetMapping("/tasks")
+    public String getTasks(Model model) {
+        // Fetch all tasks
+        List<Task> tasks = taskService.createTaskQuery().list();
+        model.addAttribute("tasks", tasks);
+        return "task_list";
+    }
+
+    // Show task form to complete a task
+    @GetMapping("/task/{taskId}")
+    public String showTaskForm(@PathVariable String taskId, Model model) {
+        Task task = taskService.createTaskQuery().taskId(taskId).singleResult();
+        model.addAttribute("task", task);
+        model.addAttribute("taskId", taskId);
+        return "task_form";
+    }
+
+    // Complete a task and retrieve form data
+    @PostMapping("/task/complete/{taskId}")
+    public String completeTask(@PathVariable String taskId,
+                               @RequestParam String taskDescription,
+                               @RequestParam boolean completed) {
+        
+        // Retrieve task variables (if any) before completing
+        Task task = taskService.createTaskQuery().taskId(taskId).singleResult();
+        if (task == null) {
+            // Handle case where task is not found
+            return "redirect:/tasks";
+        }
+        
+        // Set form data as process variables
+        taskService.setVariable(taskId, "taskDescription", taskDescription);
+        taskService.setVariable(taskId, "completed", completed);
+
+        // Complete the task
+        taskService.complete(taskId);
+
+        // Redirect to task list or a confirmation page
+        return "redirect:/tasks";
+    }
+
+    // Optionally, retrieve task variables after completion
+    @GetMapping("/task/variables/{taskId}")
+    @ResponseBody
+    public String getTaskVariables(@PathVariable String taskId) {
+        // Fetch process variables after task completion
+        List<HistoricVariableInstance> variables = taskService.getVariableInstances(taskId);
+
+        StringBuilder result = new StringBuilder();
+        for (HistoricVariableInstance var : variables) {
+            result.append(var.getVariableName())
+                  .append(": ")
+                  .append(var.getValue())
+                  .append("<br>");
+        }
+
+        return result.toString();
+    }
+}
