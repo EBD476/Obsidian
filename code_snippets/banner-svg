@@ -1,0 +1,131 @@
+<header class="e12gkq085 css-poysmc-Root-Header e1beipu21"><div class="css-1e7taj4-Inner e1beipu20">
+<div class="e12gkq081 css-1vt8ad9-Root-Canvas el7qr490">
+<div class="css-3rg13p-Triangles el7qr491"></div>
+</div><div class="markdown css-19bob80-Root ewdshm65">
+<p class="css-1nvfi7s-TextRoot e19le4zx0">Components</p>
+<h1 class="ey7bha50 css-y4ydp2-Root-SiteStyledHeading e1v7ev530">Table </h1>
+</div>
+</div>
+</header>
+
+
+------------------------------
+
+@media (min-width: 48em) {
+    .css-poysmc-Root-Header > div {
+        margin-left: 12.5em;
+        padding-bottom: 4.625em;
+        padding-top: 3.3125em;
+    }
+}
+
+@media (min-width: 48em) {
+    .css-poysmc-Root-Header > div::before {
+        left: calc(-50vw + 50% - 6.25em - 6.25em);
+        width: calc(50vw - 50% + 2* 6.25em + 6.25em);
+    }
+    
+.css-1e7taj4-Inner::before {
+    background-color: #fff;
+    bottom: 0;
+    content: "";
+    height: 1em;
+    position: absolute;
+    left: calc(-50vw + 50%);
+    -webkit-transform: skewY(5deg) translateY(1em) scaleY(30);
+    -ms-transform: skewY(5deg) translateY(1em) scaleY(30);
+    transform: skewY(5deg) translateY(1em) scaleY(30);
+    /* -webkit-transform-origin: top right; */
+    -ms-transform-origin: top right;
+    transform-origin: top right;
+    width: calc(50vw - 50% + 0.001px);
+}
+
+@media (min-width: 48em) {
+    .css-1vt8ad9-Root-Canvas {
+        left: calc(-50vw + 50% - 6.25em);
+        right: calc(-50vw + 50% - 18%);
+    }
+}
+
+
+.css-1vt8ad9-Root-Canvas {
+    bottom: 0;
+    left: calc(-50vw + 50%);
+    position: absolute;
+    right: calc(-50vw + 50%);
+    top: 0;
+    z-index: -1;
+    background-color: #00BCD4;
+}
+
+.css-3rg13p-Triangles {
+    background-image: url(/images/triangles.svg);
+    background-position: center center;
+    background-size: cover;
+    bottom: 0;
+    left: 0;
+    mix-blend-mode: hard-light;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.css-19bob80-Root {
+    line-height: 1.5;
+    position: relative;
+}
+
+.css-19bob80-Root p:first-child, .css-19bob80-Root ol:first-child, .css-19bob80-Root ul:first-child {
+    margin-top: 0;
+}
+
+.css-poysmc-Root-Header p[class] {
+    font-family: franklin-gothic-urw, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    margin: 0;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+.css-1nvfi7s-TextRoot {
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    line-height: 1.5;
+    outline: 0;
+    -moz-osx-font-smoothing: auto;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 1em;
+    margin-top: 0;
+}
+
+.css-poysmc-Root-Header h1 {
+    color: #ffffff;
+    font-size: 2.0625em;
+    margin: 0;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+}
+
+@media (min-width: 48em) {
+    .css-poysmc-Root-Header > div::after {
+        right: calc(-50vw + 50% - 19%);
+        width: calc(50vw - 50% + 100% - 6.25em + 19%);
+    }
+}
+
+.css-1e7taj4-Inner::after {
+    background-color: #fff;
+    bottom: 0;
+    content: "";
+    height: 1em;
+    position: absolute;
+    right: calc(-50vw + 50%);
+    -webkit-transform: skewY(-6deg) translateY(1em) scaleY(30);
+    -ms-transform: skewY(-6deg) translateY(1em) scaleY(30);
+    transform: skewY(-6deg) translateY(1em) scaleY(30);
+    -webkit-transform-origin: top left;
+    -ms-transform-origin: top left;
+    transform-origin: top left;
+    width: calc(50vw - 50% + 100% - 0.001px);
+}
+
